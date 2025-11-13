@@ -7,7 +7,7 @@ import java.net.Socket;
 
 public class TCPClient {
     public static void main(String[] argv) throws Exception {
-        System.out.println("Hello I'm Client - 00a");
+        System.out.println("Hello I'm Client - 00b");
         Tool.pressEnterKeyToContinue("c1 ) premi enter per creare un socket connesso al server");
 
         String serverAddress = "127.0.0.1";
