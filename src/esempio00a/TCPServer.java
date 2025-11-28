@@ -1,5 +1,3 @@
-package esempio00a;
-
 import java.net.ServerSocket;
 
 class TCPServer {

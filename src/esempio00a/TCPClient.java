@@ -1,7 +1,3 @@
-package esempio00a;
-
-import utility.Tool;
-
 import java.io.PrintWriter;
 import java.net.Socket;
 

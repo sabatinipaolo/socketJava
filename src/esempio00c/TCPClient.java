@@ -1,5 +1,3 @@
-package esempio00c;
-
 import java.io.PrintWriter;
 import java.net.Socket;
 

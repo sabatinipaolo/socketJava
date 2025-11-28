@@ -1,6 +1,3 @@
-package esempio00c_esercizio_thread;
-
-
 import java.net.Socket;
 import java.util.Scanner;
 

@@ -1,5 +1,3 @@
-package esempio00c;
-
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;

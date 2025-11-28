@@ -1,4 +1,3 @@
-package utility;
 import java.util.Scanner;
 public class Tool {
     private final static Scanner s = new Scanner(System.in);

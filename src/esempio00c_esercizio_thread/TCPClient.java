@@ -1,5 +1,3 @@
-package esempio00c_esercizio_thread;
-
 import java.io.PrintWriter;
 import java.net.Socket;
 
